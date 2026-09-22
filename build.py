@@ -1,4 +1,4 @@
-"""Build the Ottermade site: content/<lang>/<slug>.md -> _site/<lang>/<slug>/index.html (+ home page).
+"""Build the OtterMade site: content/<lang>/<slug>.md -> _site/<lang>/<slug>/index.html (+ home page).
 
 Front matter (first lines, `key: value`, ended by a blank line): title, description, lang (default = folder),
 gumroad (optional link shown as the call to action), updated (YYYY-MM-DD).
@@ -11,7 +11,7 @@ import markdown
 
 ROOT = Path(__file__).resolve().parent
 CONTENT, OUT = ROOT / "content", ROOT / "_site"
-SITE_NAME = "Ottermade"
+SITE_NAME = "OtterMade"
 BASE_URL = "https://ottermade.github.io"  # change when a custom domain is attached
 
 CSS = """
