@@ -2,9 +2,13 @@ title: HSK 1 in het Nederlands: de 300 woorden, hoe je ze leert en waar je begin
 description: Wat zit er in HSK 1 (HSK 3.0), hoe leer je de 300 woorden met Anki, en een gratis proefdeck met Nederlandse betekenissen.
 updated: 2026-09-22
 
-# HSK 1 in het Nederlands: de 300 woorden, hoe je ze leert en waar je begint
+# HSK 1 in het Nederlands
 
-HSK 1 is het eerste niveau van het officiële Chinese taalexamen (Hànyǔ Shuǐpíng Kǎoshì). Sinds de nieuwe standaard van 2021 (HSK 3.0), die sinds juli 2026 op het examen wordt gebruikt, telt niveau 1 **300 woorden** en zo'n 300 karakters. Deze pagina legt in het Nederlands uit wat er in HSK 1 zit, hoe je die woorden efficiënt leert, en geeft je een gratis Anki-proefdeck met Nederlandse betekenissen om meteen te beginnen.
+<p class="lead">Alle 300 woorden van HSK 1 met Nederlandse betekenissen, twee voorbeeldzinnen per woord, audio en geanimeerde schrijfvolgorde. Als Anki-deck en als A4-werkboek om te printen.</p>
+
+<a class="cta" href="https://ottermade.gumroad.com/l/hsk1-deck-gratis">Gratis proefdeck</a> <a class="cta" href="https://ottermade.gumroad.com/l/hsk1-deck">Volledig deck (€5)</a> <a class="cta secondary" href="https://ottermade.gumroad.com/l/hsk1-bundel">Deck + werkboek (€10)</a>
+
+HSK 1 is het eerste niveau van het officiële Chinese taalexamen (Hànyǔ Shuǐpíng Kǎoshì). Sinds de nieuwe standaard van 2021 (HSK 3.0), die sinds juli 2026 op het examen wordt gebruikt, telt niveau 1 **300 woorden** en zo'n 300 karakters. Deze pagina legt uit wat er in HSK 1 zit, hoe je die woorden efficiënt leert, en geeft je een gratis proefdeck om meteen te beginnen.
 
 ## Wat zit er in HSK 1 (3.0)?
 
@@ -28,7 +32,7 @@ Bijna alle HSK-materiaal is Engels. Voor een Nederlandstalige betekent dat twee 
 
 Het proefdeck bevat de eerste 30 HSK 1-woorden (爱 tot 的) met Nederlandse betekenis en woordsoort, de onderdelen van elk teken, twee voorbeeldzinnen met alleen HSK 1-woorden, audio en geanimeerde schrijfvolgorde. Twee kaartsoorten per woord.
 
-<a class="cta" href="https://ottermade.gumroad.com/l/kvdwip">Gratis proefdeck downloaden</a>
+<a class="cta" href="https://ottermade.gumroad.com/l/hsk1-deck-gratis">Gratis proefdeck downloaden</a>
 
 Zo importeer je het: installeer Anki (apps.ankiweb.net), dubbelklik op het bestand, synchroniseer naar je telefoon.
 
@@ -38,7 +42,7 @@ Het volledige deck met alle 300 HSK 1-woorden (600 kaarten, 900 geluidsfragmente
 
 <a class="cta" href="https://ottermade.gumroad.com/l/hsk1-deck">Volledig deck (€5)</a> Niet tevreden? Mail binnen 30 dagen en je krijgt je geld terug.
 
-**Ook schrijven?** Bij het deck hoort een A4-werkboek met schrijfoefeningen: alle 246 tekens van de officiële HSK 1-tekenlijst, elk op een eigen pagina met de streepvolgorde om over te trekken, 田字格-oefenvakken en dezelfde Nederlandse betekenissen als in het deck. Printen thuis of in de copyshop, ook in zwart-wit. De eerste 10 tekens zijn <a href="https://ottermade.gumroad.com/l/ysyvma">gratis als proefversie</a>; deck en werkboek zijn samen goedkoper als <a href="https://ottermade.gumroad.com/l/hsk1-bundel">bundel</a>.
+**Ook schrijven?** Bij het deck hoort een A4-werkboek met schrijfoefeningen: alle 246 tekens van de officiële HSK 1-tekenlijst, elk op een eigen pagina met de streepvolgorde om over te trekken, 田字格-oefenvakken en dezelfde Nederlandse betekenissen als in het deck. Printen thuis of in de copyshop, ook in zwart-wit. De eerste 10 tekens zijn <a href="https://ottermade.gumroad.com/l/hsk1-schrijfoefeningen-gratis">gratis als proefversie</a>; deck en werkboek zijn samen goedkoper als <a href="https://ottermade.gumroad.com/l/hsk1-bundel">bundel</a>.
 
 <a class="cta" href="https://ottermade.gumroad.com/l/hsk1-schrijfoefeningen">Werkboek (€7)</a> <a class="cta secondary" href="https://ottermade.gumroad.com/l/hsk1-bundel">Deck + werkboek (€10)</a>
 
