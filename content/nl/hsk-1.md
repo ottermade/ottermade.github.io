@@ -38,6 +38,8 @@ Het volledige deck met alle 300 HSK 1-woorden (600 kaarten, 900 geluidsfragmente
 
 <a class="cta" href="https://ottermade.gumroad.com">Volledig deck (€5)</a> Niet tevreden? Mail binnen 30 dagen en je krijgt je geld terug.
 
+**Ook schrijven?** Bij het deck hoort een A4-werkboek met schrijfoefeningen: alle 246 tekens van de officiële HSK 1-tekenlijst, elk op een eigen pagina met de streepvolgorde om over te trekken, 田字格-oefenvakken en dezelfde Nederlandse betekenissen als in het deck. Printen thuis of in de copyshop, ook in zwart-wit. De eerste 10 tekens zijn gratis als proefversie; deck en werkboek zijn samen goedkoper als bundel. Alles op ottermade.gumroad.com.
+
 ## Veelgestelde vragen
 
 **Hoe lang duurt HSK 1?** Met 20 nieuwe woorden per dag in Anki: ongeveer een maand voor de woordenschat, plus tijd voor luisteren en spreken.
@@ -46,8 +48,8 @@ Het volledige deck met alle 300 HSK 1-woorden (600 kaarten, 900 geluidsfragmente
 
 **Wat komt na HSK 1?** HSK 2 voegt 300 woorden toe (samen 600), HSK 3 nog eens 600. Decks voor die niveaus volgen.
 
-**Is dit officieel materiaal?** Nee. De woordenlijst is de officiële lijst van het Chinese examencentrum; de Nederlandse uitleg is van ons, met hulp van AI geschreven en handmatig gecontroleerd tegen de officiële lijst en het CC-CEDICT-woordenboek. De audio is synthetisch (Microsoft Azure).
+**Is dit officieel materiaal?** Nee. De woordenlijst is de officiële lijst van het Chinese examencentrum; de Nederlandse uitleg is van ons, handmatig gecontroleerd tegen de officiële lijst en het CC-CEDICT-woordenboek. De audio is synthetisch (Microsoft Azure).
 
 ---
 
-*Over de maker:* Ottermade (ottermade.gumroad.com). Belg, woont in China, leert zelf Chinees met Anki. Vragen of fouten gevonden? Via de contactknop op ottermade.gumroad.com.
+*Over de maker:* Ottermade (ottermade.gumroad.com). Belg, studeert in China, leert zelf Chinees met Anki. Vragen of fouten gevonden? Via de contactknop op ottermade.gumroad.com.
