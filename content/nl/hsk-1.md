@@ -36,11 +36,11 @@ Zo importeer je het: installeer Anki (apps.ankiweb.net), dubbelklik op het besta
 
 Het volledige deck met alle 300 HSK 1-woorden (600 kaarten, 900 geluidsfragmenten, schrijfvolgorde voor elk teken) staat op Gumroad voor €5.
 
-<a class="cta" href="https://ottermade.gumroad.com/l/otroui">Volledig deck (€5)</a> Niet tevreden? Mail binnen 30 dagen en je krijgt je geld terug.
+<a class="cta" href="https://ottermade.gumroad.com/l/hsk1-deck">Volledig deck (€5)</a> Niet tevreden? Mail binnen 30 dagen en je krijgt je geld terug.
 
-**Ook schrijven?** Bij het deck hoort een A4-werkboek met schrijfoefeningen: alle 246 tekens van de officiële HSK 1-tekenlijst, elk op een eigen pagina met de streepvolgorde om over te trekken, 田字格-oefenvakken en dezelfde Nederlandse betekenissen als in het deck. Printen thuis of in de copyshop, ook in zwart-wit. De eerste 10 tekens zijn <a href="https://ottermade.gumroad.com/l/ysyvma">gratis als proefversie</a>; deck en werkboek zijn samen goedkoper als <a href="https://ottermade.gumroad.com/l/fcxpwf">bundel</a>.
+**Ook schrijven?** Bij het deck hoort een A4-werkboek met schrijfoefeningen: alle 246 tekens van de officiële HSK 1-tekenlijst, elk op een eigen pagina met de streepvolgorde om over te trekken, 田字格-oefenvakken en dezelfde Nederlandse betekenissen als in het deck. Printen thuis of in de copyshop, ook in zwart-wit. De eerste 10 tekens zijn <a href="https://ottermade.gumroad.com/l/ysyvma">gratis als proefversie</a>; deck en werkboek zijn samen goedkoper als <a href="https://ottermade.gumroad.com/l/hsk1-bundel">bundel</a>.
 
-<a class="cta" href="https://ottermade.gumroad.com/l/diunmr">Werkboek (€7)</a> <a class="cta secondary" href="https://ottermade.gumroad.com/l/fcxpwf">Deck + werkboek (€10)</a>
+<a class="cta" href="https://ottermade.gumroad.com/l/hsk1-schrijfoefeningen">Werkboek (€7)</a> <a class="cta secondary" href="https://ottermade.gumroad.com/l/hsk1-bundel">Deck + werkboek (€10)</a>
 
 ## Veelgestelde vragen
 
