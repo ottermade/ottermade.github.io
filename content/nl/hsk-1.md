@@ -58,4 +58,4 @@ Het volledige deck met alle 300 HSK 1-woorden (600 kaarten, 900 geluidsfragmente
 
 ---
 
-*Over de maker:* Ottermade (ottermade.gumroad.com). Belg, studeert in China, leert zelf Chinees met Anki. Vragen of fouten gevonden? Via de contactknop op ottermade.gumroad.com.
+*Over de maker:* OtterMade (ottermade.gumroad.com). Belg, studeert in China, leert zelf Chinees met Anki. Vragen of fouten gevonden? Via de contactknop op ottermade.gumroad.com.
