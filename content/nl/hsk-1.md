@@ -32,7 +32,7 @@ Bijna alle HSK-materiaal is Engels. Voor een Nederlandstalige betekent dat twee 
 
 Het proefdeck bevat de eerste 30 HSK 1-woorden (爱 tot 的) met Nederlandse betekenis en woordsoort, de onderdelen van elk teken, twee voorbeeldzinnen met alleen HSK 1-woorden, audio en geanimeerde schrijfvolgorde. Twee kaartsoorten per woord.
 
-<a class="cta" href="https://ottermade.gumroad.com/l/hsk1-deck-gratis">Gratis proefdeck downloaden</a>
+<a class="cta" href="https://ottermade.gumroad.com/l/hsk1-deck-gratis">Gratis proefdeck downloaden</a> <a class="cta secondary" href="https://ankiweb.net/shared/info/1456519853">Of via AnkiWeb</a>
 
 Zo importeer je het: installeer Anki (apps.ankiweb.net), dubbelklik op het bestand, synchroniseer naar je telefoon.
 
