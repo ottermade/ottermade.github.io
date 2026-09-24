@@ -1,6 +1,6 @@
 title: HSK 1 in het Nederlands: de 300 woorden, hoe je ze leert en waar je begint
 description: Wat zit er in HSK 1 (HSK 3.0), hoe leer je de 300 woorden met Anki, en een gratis proefdeck met Nederlandse betekenissen.
-updated: 2026-09-22
+updated: 2026-09-24
 
 # HSK 1 in het Nederlands
 
@@ -8,7 +8,7 @@ updated: 2026-09-22
 
 <a class="cta" href="https://ottermade.gumroad.com/l/hsk1-deck-gratis">Gratis proefdeck</a> <a class="cta" href="https://ottermade.gumroad.com/l/hsk1-deck">Volledig deck (€5)</a> <a class="cta secondary" href="https://ottermade.gumroad.com/l/hsk1-bundel">Deck + werkboek (€10)</a>
 
-HSK 1 is het eerste niveau van het officiële Chinese taalexamen (Hànyǔ Shuǐpíng Kǎoshì). Sinds de nieuwe standaard van 2021 (HSK 3.0), die sinds juli 2026 op het examen wordt gebruikt, telt niveau 1 **300 woorden** en zo'n 300 karakters. Deze pagina legt uit wat er in HSK 1 zit, hoe je die woorden efficiënt leert, en geeft je een gratis proefdeck om meteen te beginnen.
+HSK 1 is het eerste niveau van het officiële Chinese taalexamen (Hànyǔ Shuǐpíng Kǎoshì). Sinds de nieuwe standaard van 2021 (HSK 3.0), die sinds juli 2026 op het examen wordt gebruikt, telt niveau 1 **300 woorden**; de officiële tekenlijst van niveau 1 telt 246 karakters. Deze pagina legt uit wat er in HSK 1 zit, hoe je die woorden efficiënt leert, en geeft je een gratis proefdeck om meteen te beginnen.
 
 ## Wat zit er in HSK 1 (3.0)?
 
@@ -52,7 +52,7 @@ Het volledige deck met alle 300 HSK 1-woorden (600 kaarten, 900 geluidsfragmente
 
 **Moet ik karakters leren of is pinyin genoeg?** Het examen HSK 1 (3.0) test lezen en schrijven van karakters. Leer ze vanaf dag één, met streekvolgorde.
 
-**Wat komt na HSK 1?** HSK 2 voegt 300 woorden toe (samen 600), HSK 3 nog eens 600. Decks voor die niveaus volgen.
+**Wat komt na HSK 1?** HSK 2 voegt 200 woorden toe (samen 500), HSK 3 nog eens 500. Decks voor die niveaus volgen.
 
 **Is dit officieel materiaal?** Nee. De woordenlijst is de officiële lijst van het Chinese examencentrum; de Nederlandse uitleg is van ons, handmatig gecontroleerd tegen de officiële lijst en het CC-CEDICT-woordenboek. De audio is synthetisch (Microsoft Azure).
 
