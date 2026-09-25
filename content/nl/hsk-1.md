@@ -1,6 +1,6 @@
 title: HSK 1 in het Nederlands: de 300 woorden, hoe je ze leert en waar je begint
 description: Wat zit er in HSK 1 (HSK 3.0), hoe leer je de 300 woorden met Anki, en een gratis proefdeck met Nederlandse betekenissen.
-updated: 2026-09-24
+updated: 2026-09-25
 
 # HSK 1 in het Nederlands
 
@@ -52,7 +52,7 @@ Het volledige deck met alle 300 HSK 1-woorden (600 kaarten, 900 geluidsfragmente
 
 **Moet ik karakters leren of is pinyin genoeg?** Het examen HSK 1 (3.0) test lezen en schrijven van karakters. Leer ze vanaf dag één, met streekvolgorde.
 
-**Wat komt na HSK 1?** HSK 2 voegt 200 woorden toe (samen 500), HSK 3 nog eens 500. Decks voor die niveaus volgen.
+**Wat komt na HSK 1?** HSK 2 voegt 200 woorden toe (samen 500), HSK 3 nog eens 500. Voor HSK 2 zijn er nu ook een deck en een werkboek: [HSK 2 in het Nederlands](/nl/hsk-2/). HSK 3 volgt.
 
 **Is dit officieel materiaal?** Nee. De woordenlijst is de officiële lijst van het Chinese examencentrum; de Nederlandse uitleg is van ons, handmatig gecontroleerd tegen de officiële lijst en het CC-CEDICT-woordenboek. De audio is synthetisch (Microsoft Azure).
 
