@@ -1,6 +1,6 @@
 title: HSK 1 in het Nederlands: de 300 woorden, hoe je ze leert en waar je begint
 description: Wat zit er in HSK 1 (HSK 3.0), hoe leer je de 300 woorden met Anki, en een gratis proefdeck met Nederlandse betekenissen.
-updated: 2026-09-25
+updated: 2026-09-30
 
 # HSK 1 in het Nederlands
 
@@ -8,7 +8,7 @@ updated: 2026-09-25
 
 <a class="cta" href="https://ottermade.gumroad.com/l/hsk1-deck-gratis">Gratis proefdeck</a> <a class="cta" href="https://ottermade.gumroad.com/l/hsk1-deck">Volledig deck (€5)</a> <a class="cta secondary" href="https://ottermade.gumroad.com/l/hsk1-bundel">Deck + werkboek (€10)</a>
 
-HSK 1 is het eerste niveau van het officiële Chinese taalexamen (Hànyǔ Shuǐpíng Kǎoshì). Sinds de nieuwe standaard van 2021 (HSK 3.0), die sinds juli 2026 op het examen wordt gebruikt, telt niveau 1 **300 woorden**; de officiële tekenlijst van niveau 1 telt 246 karakters. Deze pagina legt uit wat er in HSK 1 zit, hoe je die woorden efficiënt leert, en geeft je een gratis proefdeck om meteen te beginnen.
+HSK 1 is het eerste niveau van het officiële Chinese taalexamen (Hànyǔ Shuǐpíng Kǎoshì). In de nieuwe standaard (HSK 3.0), die wereldwijd in juli 2026 inging en in Nederland vanaf december 2026 op het examen wordt gebruikt, telt niveau 1 **300 woorden**; de officiële tekenlijst van niveau 1 telt 246 karakters. Deze pagina legt uit wat er in HSK 1 zit, hoe je die woorden efficiënt leert, en geeft je een gratis proefdeck om meteen te beginnen.
 
 ## Wat zit er in HSK 1 (3.0)?
 
