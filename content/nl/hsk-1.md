@@ -70,7 +70,7 @@ Dezelfde producten, tegen dezelfde prijs, staan ook in onze Etsy-winkel ByOtterM
 
 **Moet ik karakters leren of is pinyin genoeg?** Het examen HSK 1 (3.0) test lezen en schrijven van karakters. Leer ze vanaf dag één, met streekvolgorde.
 
-**Wat komt na HSK 1?** HSK 2 voegt 200 woorden toe (samen 500), HSK 3 nog eens 500. Voor HSK 2 zijn er nu ook een deck en een werkboek: [HSK 2 in het Nederlands](/nl/hsk-2/). HSK 3 volgt.
+**Wat komt na HSK 1?** HSK 2 voegt 200 woorden toe (samen 500), HSK 3 nog eens 500. Voor HSK 2 zijn er nu ook een deck en een werkboek: [HSK 2 in het Nederlands](/nl/hsk-2/), en voor HSK 3: [HSK 3 in het Nederlands](/nl/hsk-3/).
 
 **Is dit officieel materiaal?** Nee. De woordenlijst is de officiële lijst van het Chinese examencentrum; de Nederlandse uitleg is van ons, handmatig gecontroleerd tegen de officiële lijst en het CC-CEDICT-woordenboek. De audio is synthetisch (Microsoft Azure).
 
