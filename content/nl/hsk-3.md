@@ -51,7 +51,7 @@ Eén kaart uit het deck (搬家), zoals je hem in Anki ziet: de voorkant met de 
 
 Het proefdeck bevat de eerste 30 HSK 3-woorden (阿姨 tot 表演) met Nederlandse betekenis en woordsoort, de onderdelen van elk woord, twee voorbeeldzinnen, audio en geanimeerde schrijfvolgorde. Twee kaartsoorten per woord. Het staat als apart deck naast je HSK 1- en HSK 2-deck.
 
-<a class="cta" href="https://ottermade.gumroad.com/l/hsk3-deck-gratis">Gratis proefdeck downloaden</a>
+<a class="cta" href="https://ottermade.gumroad.com/l/hsk3-deck-gratis">Gratis proefdeck downloaden</a> <a class="cta secondary" href="https://ankiweb.net/shared/info/2090815142">Of via AnkiWeb</a>
 
 Zo importeer je het: installeer Anki (apps.ankiweb.net), dubbelklik op het bestand, synchroniseer naar je telefoon.
 
