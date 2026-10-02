@@ -2,6 +2,8 @@
 
 Front matter (first lines, `key: value`, ended by a blank line): title, description, lang (default = folder),
 gumroad (optional link shown as the call to action), updated (YYYY-MM-DD).
+static/ (images) is copied into _site/ as is, so static/img/hsk-1/x.png is served at /img/hsk-1/x.png; the AnkiWeb
+shared-deck descriptions load their screenshots from there, so keep those file names stable.
 Run: python build.py   (needs: pip install markdown)
 """
 from __future__ import annotations
@@ -24,6 +26,9 @@ h1{font-size:1.9em;line-height:1.2;margin:.8em 0 .4em}h2{font-size:1.3em;margin-
 a{color:var(--accent)}p.lead{font-size:1.1em;color:var(--muted)}
 .cta{display:inline-block;background:var(--accent);color:#fff;padding:10px 18px;border-radius:8px;text-decoration:none;font-weight:700;margin:6px 8px 6px 0}
 .cta.secondary{background:transparent;color:var(--accent);border:2px solid var(--accent)}
+.cta.etsy{background:transparent;color:#d5521a;border:2px solid #f1641e}
+.shots{display:flex;flex-wrap:wrap;gap:12px;align-items:flex-start;margin:1em 0}.shots figure{margin:0;flex:1 1 180px;max-width:260px}
+.shots img{width:100%;height:auto;border:1px solid var(--line);border-radius:8px}.shots figcaption{font-size:.8em;color:var(--muted);margin-top:4px}
 footer{color:var(--muted);font-size:.85em;padding:30px 16px 40px;border-top:1px solid var(--line);margin-top:40px}
 ul.pages{list-style:none;padding:0}ul.pages li{margin:.6em 0}
 """
@@ -74,6 +79,8 @@ def main() -> None:
         (OUT / lang / "index.html").write_text(PAGE.format(lang=lang, title=lang.upper(), site=SITE_NAME, description=SITE_NAME, url=f"{BASE_URL}/{lang}/", css=CSS, nav=nav, body=f"<h1>{SITE_NAME}</h1><ul class=\"pages\">{items}</ul>", updated=""), encoding="utf-8")
     items = "".join(f'<li><a href="{p["url"]}">{html.escape(p["title"])}</a> <span style="color:var(--muted)">({p["lang"].upper()})</span></li>' for p in pages)
     (OUT / "index.html").write_text(PAGE.format(lang="en", title=SITE_NAME, site=SITE_NAME, description="Digital study decks, templates and tools.", url=BASE_URL + "/", css=CSS, nav=nav, body=f"<h1>{SITE_NAME}</h1><p class=\"lead\">Digital study decks, templates and tools.</p><ul class=\"pages\">{items}</ul>", updated=""), encoding="utf-8")
+    if (ROOT / "static").exists():
+        shutil.copytree(ROOT / "static", OUT, dirs_exist_ok=True)
     (OUT / ".nojekyll").write_text("")
     (OUT / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {BASE_URL}/sitemap.xml\n")
     (OUT / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' + "".join(f"<url><loc>{BASE_URL}{p['url']}</loc></url>" for p in pages) + "</urlset>")

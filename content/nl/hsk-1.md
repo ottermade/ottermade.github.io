@@ -1,6 +1,6 @@
 title: HSK 1 in het Nederlands: de 300 woorden, hoe je ze leert en waar je begint
 description: Wat zit er in HSK 1 (HSK 3.0), hoe leer je de 300 woorden met Anki, en een gratis proefdeck met Nederlandse betekenissen.
-updated: 2026-09-30
+updated: 2026-10-02
 
 # HSK 1 in het Nederlands
 
@@ -28,6 +28,16 @@ De 300 woorden dekken de basis: begroetingen (你好, 谢谢, 再见), getallen 
 
 Bijna alle HSK-materiaal is Engels. Voor een Nederlandstalige betekent dat twee vertaalstappen: 爱 → *to love* → *houden van*. Een Nederlandse betekenis met een Nederlandse woordsoort (zn., ww., bn.) haalt die tussenstap weg en voorkomt fouten die uit het Engels komen (bijvoorbeeld *学* als "to study" terwijl "leren" én "school" bedoeld kunnen zijn).
 
+## Zo ziet het eruit {#zo-ziet-het-eruit}
+
+Eén kaart uit het deck (爱), zoals je hem in Anki ziet: de voorkant met de Nederlandse betekenis, de achterkant met de geanimeerde schrijfvolgorde, en dezelfde achterkant in nachtmodus.
+
+<div class="shots">
+<figure><img src="/img/hsk-1/kaart-voorkant.png" alt="Voorkant van de kaart 爱: de Nederlandse betekenis, je zegt en schrijft het Chinees" loading="lazy"><figcaption>Voorkant: Nederlands → Chinees</figcaption></figure>
+<figure><img src="/img/hsk-1/kaart-schrijfvolgorde.gif" alt="Achterkant van de kaart 爱 met pinyin, audio, voorbeeldzinnen en geanimeerde schrijfvolgorde" loading="lazy"><figcaption>Achterkant met schrijfvolgorde</figcaption></figure>
+<figure><img src="/img/hsk-1/kaart-nachtmodus.png" alt="Achterkant van de kaart 爱 in nachtmodus" loading="lazy"><figcaption>Nachtmodus</figcaption></figure>
+</div>
+
 ## Gratis: de eerste 30 woorden als Anki-deck
 
 Het proefdeck bevat de eerste 30 HSK 1-woorden (爱 tot 的) met Nederlandse betekenis en woordsoort, de onderdelen van elk teken, twee voorbeeldzinnen met alleen HSK 1-woorden, audio en geanimeerde schrijfvolgorde. Twee kaartsoorten per woord.
@@ -45,6 +55,12 @@ Het volledige deck met alle 300 HSK 1-woorden (600 kaarten, 900 geluidsfragmente
 **Ook schrijven?** Bij het deck hoort een A4-werkboek met schrijfoefeningen: alle 246 tekens van de officiële HSK 1-tekenlijst, elk op een eigen pagina met de streepvolgorde om over te trekken, 田字格-oefenvakken en dezelfde Nederlandse betekenissen als in het deck. Printen thuis of in de copyshop, ook in zwart-wit. De eerste 10 tekens zijn <a href="https://ottermade.gumroad.com/l/hsk1-schrijfoefeningen-gratis">gratis als proefversie</a>; deck en werkboek zijn samen goedkoper als <a href="https://ottermade.gumroad.com/l/hsk1-bundel">bundel</a>.
 
 <a class="cta" href="https://ottermade.gumroad.com/l/hsk1-schrijfoefeningen">Werkboek (€7)</a> <a class="cta secondary" href="https://ottermade.gumroad.com/l/hsk1-bundel">Deck + werkboek (€10)</a>
+
+## Liever via Etsy?
+
+Dezelfde producten, tegen dezelfde prijs, staan ook in onze Etsy-winkel ByOtterMade.
+
+<a class="cta etsy" href="https://byottermade.etsy.com/listing/4583060987/hsk-1-anki-deck-chinees-nederlands-300">Deck op Etsy</a> <a class="cta etsy" href="https://byottermade.etsy.com/listing/4583063973/hsk-1-schrijfoefeningen-chinees">Werkboek op Etsy</a> <a class="cta etsy" href="https://byottermade.etsy.com/listing/4583067153/hsk-1-bundel-chinees-nederlands-anki">Deck + werkboek op Etsy</a> <a class="cta etsy" href="https://byottermade.etsy.com/listing/4583077583/hsk-1-2-compleet-chinees-nederlands-2">HSK 1 + 2 compleet op Etsy</a>
 
 ## Veelgestelde vragen
 
