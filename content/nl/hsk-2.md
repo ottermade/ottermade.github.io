@@ -10,7 +10,7 @@ updated: 2026-10-02
 
 Of koop via Etsy: <a class="cta etsy" href="https://byottermade.etsy.com/listing/4583080252/hsk-2-anki-deck-chinees-nederlands-200">Deck op Etsy</a> <a class="cta etsy" href="https://byottermade.etsy.com/listing/4583071721/hsk-2-schrijfoefeningen-chinees">Werkboek op Etsy</a> <a class="cta etsy" href="https://byottermade.etsy.com/listing/4583074413/hsk-2-bundel-chinees-nederlands-anki">Deck + werkboek op Etsy</a> <a class="cta etsy" href="https://byottermade.etsy.com/listing/4583077583/hsk-1-2-compleet-chinees-nederlands-2">HSK 1 + 2 compleet op Etsy</a>
 
-HSK 2 is het tweede niveau van het officiële Chinese taalexamen (Hànyǔ Shuǐpíng Kǎoshì). In de nieuwe standaard (HSK 3.0), die sinds juli 2026 op het examen wordt gebruikt, voegt niveau 2 **200 woorden** toe aan de 300 van HSK 1: samen 500. De officiële tekenlijst van niveau 2 telt 125 nieuwe karakters. Deze pagina legt uit wat er in HSK 2 zit, wat er verandert na HSK 1, en geeft je een gratis proefdeck om meteen te beginnen.
+HSK 2 is het tweede niveau van het officiële Chinese taalexamen (Hànyǔ Shuǐpíng Kǎoshì). In de nieuwe standaard (HSK 3.0), die wereldwijd in juli 2026 inging en in Nederland vanaf december 2026 op het examen wordt gebruikt, voegt niveau 2 **200 woorden** toe aan de 300 van HSK 1: samen 500. De officiële tekenlijst van niveau 2 telt 125 nieuwe karakters. Deze pagina legt uit wat er in HSK 2 zit, wat er verandert na HSK 1, en geeft je een gratis proefdeck om meteen te beginnen.
 
 ## Wat zit er in HSK 2 (3.0)?
 
@@ -77,6 +77,6 @@ Dezelfde producten, tegen dezelfde prijs, staan ook in onze Etsy-winkel ByOtterM
 
 **Hoe lang duurt HSK 2?** Met 20 nieuwe woorden per dag in Anki: een tiental dagen om alle woorden te zien, en een paar weken herhaling tot ze vastzitten.
 
-**Wat komt na HSK 2?** HSK 3 voegt 500 woorden toe (samen 1000).
+**Wat komt na HSK 2?** HSK 3 voegt 500 woorden toe (samen 1000). Daarvoor zijn er nu ook een deck en een werkboek: <a href="/nl/hsk-3/">HSK 3 in het Nederlands</a>.
 
 **Is dit officieel materiaal?** Nee. De woordenlijst is de officiële lijst van het Chinese examencentrum; de Nederlandse uitleg is van ons, handmatig gecontroleerd tegen de officiële lijst en het CC-CEDICT-woordenboek. De audio is synthetisch (Microsoft Azure).
