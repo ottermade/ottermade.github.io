@@ -1,6 +1,6 @@
 title: HSK 2 in het Nederlands: de 200 woorden, wat er nieuw is en hoe je ze leert
 description: Wat zit er in HSK 2 (HSK 3.0), wat verandert er na HSK 1, en een gratis proefdeck met Nederlandse betekenissen.
-updated: 2026-09-25
+updated: 2026-10-02
 
 # HSK 2 in het Nederlands
 
@@ -35,6 +35,16 @@ Met HSK 1 kun je jezelf voorstellen en iets bestellen. HSK 2 laat je vertellen e
 
 Bijna alle HSK-materiaal is Engels. Voor een Nederlandstalige betekent dat twee vertaalstappen: 旅游 → *to travel* → *reizen*. Een Nederlandse betekenis met een Nederlandse woordsoort (zn., ww., bn.) haalt die tussenstap weg, en Nederlandse voorbeeldzinnen tonen hoe een woord echt gebruikt wordt.
 
+## Zo ziet het eruit {#zo-ziet-het-eruit}
+
+Eén kaart uit het deck (爱好), zoals je hem in Anki ziet: de voorkant met de Nederlandse betekenis, de achterkant met de geanimeerde schrijfvolgorde, en dezelfde achterkant in nachtmodus.
+
+<div class="shots">
+<figure><img src="/img/hsk-2/kaart-voorkant.png" alt="Voorkant van de kaart 爱好: de Nederlandse betekenis, je zegt en schrijft het Chinees" loading="lazy"><figcaption>Voorkant: Nederlands → Chinees</figcaption></figure>
+<figure><img src="/img/hsk-2/kaart-schrijfvolgorde.gif" alt="Achterkant van de kaart 爱好 met pinyin, audio, voorbeeldzinnen en geanimeerde schrijfvolgorde" loading="lazy"><figcaption>Achterkant met schrijfvolgorde</figcaption></figure>
+<figure><img src="/img/hsk-2/kaart-nachtmodus.png" alt="Achterkant van de kaart 爱好 in nachtmodus" loading="lazy"><figcaption>Nachtmodus</figcaption></figure>
+</div>
+
 ## Gratis: de eerste 30 woorden als Anki-deck
 
 Het proefdeck bevat de eerste 30 HSK 2-woorden (啊 tot 但) met Nederlandse betekenis en woordsoort, de onderdelen van elk woord, twee voorbeeldzinnen, audio en geanimeerde schrijfvolgorde. Twee kaartsoorten per woord. Het staat als apart deck naast je HSK 1-deck.
@@ -52,6 +62,12 @@ Het volledige deck met alle 200 HSK 2-woorden (398 kaarten, 597 geluidsfragmente
 **Ook schrijven?** Bij het deck hoort een A4-werkboek met de 125 tekens die in HSK 2 nieuw zijn, elk op een eigen pagina met de streepvolgorde om over te trekken, 田字格-oefenvakken en dezelfde Nederlandse betekenissen als in het deck. Geen enkele pagina dubbel met het HSK 1-werkboek. De eerste 10 tekens zijn <a href="https://ottermade.gumroad.com/l/hsk2-schrijfoefeningen-gratis">gratis als proefversie</a>; deck en werkboek zijn samen goedkoper als <a href="https://ottermade.gumroad.com/l/hsk2-bundel">bundel</a>.
 
 <a class="cta" href="https://ottermade.gumroad.com/l/hsk2-schrijfoefeningen">Werkboek (€5)</a> <a class="cta secondary" href="https://ottermade.gumroad.com/l/hsk2-bundel">Deck + werkboek (€8)</a>
+
+## Liever via Etsy?
+
+Dezelfde producten, tegen dezelfde prijs, staan ook in onze Etsy-winkel ByOtterMade.
+
+<a class="cta etsy" href="https://byottermade.etsy.com/listing/4583080252/hsk-2-anki-deck-chinees-nederlands-200">Deck op Etsy</a> <a class="cta etsy" href="https://byottermade.etsy.com/listing/4583071721/hsk-2-schrijfoefeningen-chinees">Werkboek op Etsy</a> <a class="cta etsy" href="https://byottermade.etsy.com/listing/4583074413/hsk-2-bundel-chinees-nederlands-anki">Deck + werkboek op Etsy</a> <a class="cta etsy" href="https://byottermade.etsy.com/listing/4583077583/hsk-1-2-compleet-chinees-nederlands-2">HSK 1 + 2 compleet op Etsy</a>
 
 ## Veelgestelde vragen
 
