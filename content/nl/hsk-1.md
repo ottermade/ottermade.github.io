@@ -8,6 +8,8 @@ updated: 2026-10-02
 
 <a class="cta" href="https://ottermade.gumroad.com/l/hsk1-deck-gratis">Gratis proefdeck</a> <a class="cta" href="https://ottermade.gumroad.com/l/hsk1-deck">Volledig deck (€5)</a> <a class="cta secondary" href="https://ottermade.gumroad.com/l/hsk1-bundel">Deck + werkboek (€10)</a>
 
+Of koop via Etsy: <a class="cta etsy" href="https://byottermade.etsy.com/listing/4583060987/hsk-1-anki-deck-chinees-nederlands-300">Deck op Etsy</a> <a class="cta etsy" href="https://byottermade.etsy.com/listing/4583063973/hsk-1-schrijfoefeningen-chinees">Werkboek op Etsy</a> <a class="cta etsy" href="https://byottermade.etsy.com/listing/4583067153/hsk-1-bundel-chinees-nederlands-anki">Deck + werkboek op Etsy</a> <a class="cta etsy" href="https://byottermade.etsy.com/listing/4583077583/hsk-1-2-compleet-chinees-nederlands-2">HSK 1 + 2 compleet op Etsy</a>
+
 HSK 1 is het eerste niveau van het officiële Chinese taalexamen (Hànyǔ Shuǐpíng Kǎoshì). In de nieuwe standaard (HSK 3.0), die wereldwijd in juli 2026 inging en in Nederland vanaf december 2026 op het examen wordt gebruikt, telt niveau 1 **300 woorden**; de officiële tekenlijst van niveau 1 telt 246 karakters. Deze pagina legt uit wat er in HSK 1 zit, hoe je die woorden efficiënt leert, en geeft je een gratis proefdeck om meteen te beginnen.
 
 ## Wat zit er in HSK 1 (3.0)?
