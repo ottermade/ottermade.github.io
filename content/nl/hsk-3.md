@@ -1,6 +1,6 @@
 title: HSK 3 in het Nederlands: de 500 woorden, wat er nieuw is en hoe je ze leert
 description: Wat zit er in HSK 3 (HSK 3.0), wat verandert er na HSK 2, en een gratis proefdeck met Nederlandse betekenissen.
-updated: 2026-10-02
+updated: 2026-10-03
 
 # HSK 3 in het Nederlands
 
@@ -85,7 +85,7 @@ Dezelfde producten, tegen dezelfde prijs, staan ook in onze Etsy-winkel ByOtterM
 
 **Moet ik alle tekens kunnen schrijven?** Nee. HSK 3.0 maakt een onderscheid: je moet alle woorden kunnen lezen, maar alleen de tekens van de officiële schrijflijst (150 voor niveau 3) met de hand kunnen schrijven. Het werkboek volgt precies die lijst.
 
-**Wat komt na HSK 3?** HSK 4 voegt 1000 woorden toe (samen 2000).
+**Wat komt na HSK 3?** HSK 4 voegt 1000 woorden toe (samen 2000). Daarvoor zijn er nu ook een deck en een werkboek: <a href="/nl/hsk-4/">HSK 4 in het Nederlands</a>.
 
 **Is dit officieel materiaal?** Nee. De woordenlijst is de officiële lijst van het Chinese examencentrum; de Nederlandse uitleg is van ons, handmatig gecontroleerd tegen de officiële lijst en het CC-CEDICT-woordenboek. De audio is synthetisch (Microsoft Azure).
 
