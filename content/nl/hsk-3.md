@@ -1,6 +1,6 @@
 title: HSK 3 in het Nederlands: de 500 woorden, wat er nieuw is en hoe je ze leert
 description: Wat zit er in HSK 3 (HSK 3.0), wat verandert er na HSK 2, en een gratis proefdeck met Nederlandse betekenissen.
-updated: 2026-10-03
+updated: 2026-10-04
 
 # HSK 3 in het Nederlands
 
@@ -67,9 +67,11 @@ Het volledige deck met alle 500 HSK 3-woorden (1.000 kaarten, 1.500 geluidsfragm
 
 ## HSK 1, 2 en 3 in één keer
 
-Begin je pas, of wil je alles in één keer? Het pakket HSK 1, 2 en 3 compleet bevat de drie Anki-decks en de drie schrijfwerkboeken: 1000 woorden en 521 tekens om te schrijven, voor €22. Het voordeligste pakket in de winkel.
+Begin je pas, of wil je alles in één keer? Het pakket HSK 1, 2 en 3 compleet bevat de drie Anki-decks en de drie schrijfwerkboeken: 1000 woorden en 521 tekens om te schrijven, voor €22, voordeliger dan los.
 
 <a class="cta" href="https://ottermade.gumroad.com/l/hsk1-3-bundel">HSK 1, 2 en 3 compleet (€22)</a> <a class="cta etsy" href="https://byottermade.etsy.com/listing/4587075753/hsk-1-2-en-3-30-compleet-chinees">Op Etsy</a>
+
+Wil je HSK 4 er meteen bij? <a href="https://ottermade.gumroad.com/l/hsk1-4-bundel">HSK 1, 2, 3 en 4 compleet</a>: vier decks en vier werkboeken voor €30 (alleen op Gumroad).
 
 ## Liever via Etsy?
 
