@@ -1,12 +1,12 @@
 title: HSK 4 in het Nederlands: de 1000 woorden, wat er nieuw is en hoe je ze leert
 description: Wat zit er in HSK 4 (HSK 3.0), wat verandert er na HSK 3, en een gratis proefdeck met Nederlandse betekenissen.
-updated: 2026-10-03
+updated: 2026-10-04
 
 # HSK 4 in het Nederlands
 
 <p class="lead">Alle 1000 woorden van HSK 4 met Nederlandse betekenissen, twee voorbeeldzinnen per woord, audio en geanimeerde schrijfvolgorde. Als Anki-deck, en de 150 tekens die je moet kunnen schrijven als A4-werkboek om te printen.</p>
 
-<a class="cta" href="https://ottermade.gumroad.com/l/hsk4-deck-gratis">Gratis proefdeck</a> <a class="cta" href="https://ottermade.gumroad.com/l/hsk4-deck">Volledig deck (€9)</a> <a class="cta secondary" href="https://ottermade.gumroad.com/l/hsk4-schrijfoefeningen">Werkboek (€5)</a>
+<a class="cta" href="https://ottermade.gumroad.com/l/hsk4-deck-gratis">Gratis proefdeck</a> <a class="cta" href="https://ottermade.gumroad.com/l/hsk4-deck">Volledig deck (€9)</a> <a class="cta secondary" href="https://ottermade.gumroad.com/l/hsk4-bundel">Deck + werkboek (€12)</a>
 
 Of koop via Etsy: <a class="cta etsy" href="https://byottermade.etsy.com/listing/4587248883/hsk-4-30-anki-deck-chinees-nederlands">Deck op Etsy</a> <a class="cta etsy" href="https://byottermade.etsy.com/listing/4587252453/hsk-4-30-schrijfoefeningen-chinees">Werkboek op Etsy</a> <a class="cta etsy" href="https://byottermade.etsy.com/listing/4587254703/hsk-4-30-bundel-chinees-nederlands-anki">Deck + werkboek op Etsy</a>
 
@@ -50,7 +50,7 @@ Eén kaart uit het deck (毕业), zoals je hem in Anki ziet: de voorkant met de 
 
 Het proefdeck bevat de eerste 30 HSK 4-woorden (啊 tot 毕业生) met Nederlandse betekenis en woordsoort, de onderdelen van elk woord, twee voorbeeldzinnen, audio en geanimeerde schrijfvolgorde. Twee kaartsoorten per woord. Het staat als apart deck naast je decks van HSK 1 tot 3.
 
-<a class="cta" href="https://ottermade.gumroad.com/l/hsk4-deck-gratis">Gratis proefdeck downloaden</a>
+<a class="cta" href="https://ottermade.gumroad.com/l/hsk4-deck-gratis">Gratis proefdeck downloaden</a> <a class="cta secondary" href="https://ankiweb.net/shared/info/643365561">Of via AnkiWeb</a>
 
 Zo importeer je het: installeer Anki (apps.ankiweb.net), dubbelklik op het bestand, synchroniseer naar je telefoon.
 
@@ -60,13 +60,19 @@ Het volledige deck met alle 1000 HSK 4-woorden (1.998 kaarten, 2.997 geluidsfrag
 
 <a class="cta" href="https://ottermade.gumroad.com/l/hsk4-deck">Volledig deck (€9)</a> Niet tevreden? Mail binnen 30 dagen en je krijgt je geld terug.
 
-**Ook schrijven?** Bij het deck hoort een A4-werkboek met de 150 tekens van de officiële HSK 4-schrijflijst, elk op een eigen pagina met de streepvolgorde om over te trekken, 田字格-oefenvakken en dezelfde Nederlandse betekenissen als in het deck. Geen enkele pagina dubbel met de werkboeken van HSK 1 tot 3. De eerste 10 tekens (巴 tot 厂) zijn <a href="https://ottermade.gumroad.com/l/hsk4-schrijfoefeningen-gratis">gratis als proefversie</a>.
+**Ook schrijven?** Bij het deck hoort een A4-werkboek met de 150 tekens van de officiële HSK 4-schrijflijst, elk op een eigen pagina met de streepvolgorde om over te trekken, 田字格-oefenvakken en dezelfde Nederlandse betekenissen als in het deck. Geen enkele pagina dubbel met de werkboeken van HSK 1 tot 3. De eerste 10 tekens (巴 tot 厂) zijn <a href="https://ottermade.gumroad.com/l/hsk4-schrijfoefeningen-gratis">gratis als proefversie</a>; deck en werkboek zijn samen goedkoper als <a href="https://ottermade.gumroad.com/l/hsk4-bundel">bundel</a>.
 
-<a class="cta" href="https://ottermade.gumroad.com/l/hsk4-schrijfoefeningen">Werkboek (€5)</a>
+<a class="cta" href="https://ottermade.gumroad.com/l/hsk4-schrijfoefeningen">Werkboek (€5)</a> <a class="cta secondary" href="https://ottermade.gumroad.com/l/hsk4-bundel">Deck + werkboek (€12)</a>
+
+## HSK 1, 2, 3 en 4 in één keer
+
+Begin je pas, of wil je alles in één keer? Het pakket HSK 1, 2, 3 en 4 compleet bevat de vier Anki-decks en de vier schrijfwerkboeken: 2000 woorden en 671 tekens om te schrijven, voor €30 in plaats van €48 los. Het voordeligste pakket in de winkel, alleen op Gumroad.
+
+<a class="cta" href="https://ottermade.gumroad.com/l/hsk1-4-bundel">HSK 1, 2, 3 en 4 compleet (€30)</a>
 
 ## Liever via Etsy?
 
-Dezelfde producten, tegen dezelfde prijs, staan ook in onze Etsy-winkel ByOtterMade, met daarbij een bundel van deck en werkboek.
+Dezelfde producten, tegen dezelfde prijs, staan ook in onze Etsy-winkel ByOtterMade. Het pakket HSK 1 tot 4 compleet staat alleen op Gumroad: de vier decks samen zijn te groot voor Etsy.
 
 <a class="cta etsy" href="https://byottermade.etsy.com/listing/4587248883/hsk-4-30-anki-deck-chinees-nederlands">Deck op Etsy</a> <a class="cta etsy" href="https://byottermade.etsy.com/listing/4587252453/hsk-4-30-schrijfoefeningen-chinees">Werkboek op Etsy</a> <a class="cta etsy" href="https://byottermade.etsy.com/listing/4587254703/hsk-4-30-bundel-chinees-nederlands-anki">Deck + werkboek op Etsy (€12)</a>
 
