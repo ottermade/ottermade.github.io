@@ -27,8 +27,8 @@ Met HSK 3 bouw je langere zinnen. HSK 4 laat je redeneren, je mening geven en ov
 ## Hoe leer je HSK 4 na HSK 3?
 
 1. **Blijf je kaarten van HSK 1 tot 3 herhalen.** De voorbeeldzinnen van HSK 4 gebruiken woorden uit alle vier de niveaus.
-2. **Twintig nieuwe woorden per dag** in Anki: in ongeveer zeven weken heb je alle 1000 woorden een eerste keer gezien, daarna doet de herhaling het werk.
-3. **Zinnen met alleen bekende woorden.** Een voorbeeldzin helpt alleen als je elk ander woord erin al kent. Onze zinnen gebruiken alleen woorden uit HSK 1 tot 4.
+2. **Twintig nieuwe kaarten per dag** in Anki (de standaard, tien woorden): in ongeveer veertien weken heb je alle 1.998 kaarten een eerste keer gezien, daarna plant Anki de herhalingen.
+3. **Zinnen met alleen bekende woorden.** Een voorbeeldzin helpt het meest als je de andere woorden erin al kent. Onze zinnen gebruiken alleen woorden uit HSK 1 tot 4.
 4. **Let op woorden die al bestonden.** 等 is in HSK 2 "wachten" en in HSK 4 ook "enzovoort". In ons HSK 4-deck staat de nieuwe betekenis op een eigen kaart; je HSK 2-kaart blijft zoals hij was.
 5. **Schrijf de tekens van de schrijflijst.** Je hoeft niet elk teken dat je leest ook te schrijven: HSK 4 vraagt er 150. Wie die met de hand schrijft, in de juiste streepvolgorde, onthoudt ze beter en leest ze sneller.
 
@@ -80,11 +80,11 @@ Dezelfde producten, tegen dezelfde prijs, staan ook in onze Etsy-winkel ByOtterM
 
 **Moet ik eerst HSK 1 tot 3 kennen?** Ja. HSK 4 bouwt op de 1000 woorden van HSK 1 tot 3, en de voorbeeldzinnen gebruiken ze. Nog niet zover? Begin bij <a href="/nl/hsk-1/">HSK 1</a>, <a href="/nl/hsk-2/">HSK 2</a> of <a href="/nl/hsk-3/">HSK 3 in het Nederlands</a>.
 
-**Hoe lang duurt HSK 4?** Met 20 nieuwe woorden per dag in Anki: ongeveer zeven weken om alle woorden te zien, en daarna een paar weken herhaling tot ze vastzitten. Voor de 150 schrijftekens: drie tot vijf per dag, zo'n zeven weken.
+**Hoe lang duurt HSK 4?** Met Anki's standaard van 20 nieuwe kaarten per dag (tien woorden): ongeveer veertien weken om alle woorden te zien, en daarna een paar weken herhaling tot ze vastzitten. Voor de 150 schrijftekens: drie tot vijf per dag, zo'n zeven weken.
 
 **Moet ik alle tekens kunnen schrijven?** Nee. HSK 3.0 maakt een onderscheid: je moet alle woorden kunnen lezen, maar alleen de tekens van de officiële schrijflijst (150 voor niveau 4) met de hand kunnen schrijven. Het werkboek volgt precies die lijst.
 
-**Is dit officieel materiaal?** Nee. De woordenlijst is de officiële lijst van het Chinese examencentrum; de Nederlandse uitleg is van ons, handmatig gecontroleerd tegen de officiële lijst en het CC-CEDICT-woordenboek. De audio is synthetisch (Microsoft Azure).
+**Is dit officieel materiaal?** Nee. De woordenlijst is de officiële lijst van het Chinese examencentrum; de Nederlandse uitleg is van ons. Elke kaart is automatisch gecontroleerd tegen de officiële lijst en het CC-CEDICT-woordenboek en steekproefsgewijs met de hand nagekeken. De audio is synthetisch (Microsoft Azure).
 
 ---
 
