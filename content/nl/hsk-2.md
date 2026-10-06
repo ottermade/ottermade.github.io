@@ -4,13 +4,13 @@ updated: 2026-10-06
 
 # HSK 2 in het Nederlands
 
-<p class="lead">Alle 200 woorden van HSK 2 met Nederlandse betekenissen, twee voorbeeldzinnen per woord, audio en geanimeerde schrijfvolgorde. Als Anki-deck en als A4-werkboek om te printen.</p>
+<p class="lead">Alle 200 woorden van HSK 2 met Nederlandse betekenissen, twee voorbeeldzinnen per woord, audio en geanimeerde schrijfvolgorde. Als Anki-deck, en de 125 nieuwe tekens als A4-werkboek om te printen.</p>
 
 <a class="cta" href="https://ottermade.gumroad.com/l/hsk2-deck-gratis">Gratis proefdeck</a> <a class="cta" href="https://ottermade.gumroad.com/l/hsk2-deck">Volledig deck (€5)</a> <a class="cta secondary" href="https://ottermade.gumroad.com/l/hsk2-bundel">Deck + werkboek (€8)</a>
 
 Of koop via Etsy: <a class="cta etsy" href="https://byottermade.etsy.com/listing/4583080252/hsk-2-anki-deck-chinees-nederlands-200">Deck op Etsy</a> <a class="cta etsy" href="https://byottermade.etsy.com/listing/4583071721/hsk-2-schrijfoefeningen-chinees">Werkboek op Etsy</a> <a class="cta etsy" href="https://byottermade.etsy.com/listing/4583074413/hsk-2-bundel-chinees-nederlands-anki">Deck + werkboek op Etsy</a> <a class="cta etsy" href="https://byottermade.etsy.com/listing/4583077583/hsk-1-2-compleet-chinees-nederlands-2">HSK 1 + 2 compleet op Etsy</a>
 
-HSK 2 is het tweede niveau van het officiële Chinese taalexamen (Hànyǔ Shuǐpíng Kǎoshì). In de nieuwe standaard (HSK 3.0), die wereldwijd in juli 2026 inging en in Nederland vanaf december 2026 op het examen wordt gebruikt, voegt niveau 2 **200 woorden** toe aan de 300 van HSK 1: samen 500. De officiële tekenlijst van niveau 2 telt 125 nieuwe karakters.
+HSK 2 is het tweede niveau van het officiële Chinese taalexamen (Hànyǔ Shuǐpíng Kǎoshì). In de nieuwe standaard (HSK 3.0), die wereldwijd in juli 2026 inging en in Nederland vanaf december 2026 op het examen wordt gebruikt, voegt niveau 2 **200 woorden** toe aan de 300 van HSK 1: samen 500. De officiële tekenlijst van niveau 2 telt 125 nieuwe tekens.
 
 ## Wat zit er in HSK 2 (3.0)?
 
@@ -20,7 +20,7 @@ Met HSK 1 kun je jezelf voorstellen en iets bestellen. HSK 2 laat je vertellen e
 - **Waarom:** 为什么, 因为 … 所以 …, 虽然 … 但是 …
 - **Vergelijken:** 比 (dan), 最 (meest), 这么 / 那么 (zo).
 - **De weg:** 往 (naar), 离 (verwijderd van), 左边, 右边, 前面, 旁边, 近, 远.
-- **Richting bij werkwoorden:** 上来, 下去, 进来, 出去, 回来 — een van de kenmerken van gesproken Chinees.
+- **Richting bij werkwoorden:** 上来, 下去, 进来, 出去, 回来 (typisch voor gesproken Chinees).
 - **Het dagelijkse leven:** 地铁, 公交车, 机票, 酒店, 生日, 身体, 药店, 旅游, 爱好.
 
 **Oude of nieuwe HSK?** De oude HSK 2 (2.0) had zo'n 150 nieuwe woorden. De helft daarvan zit ook in de nieuwe HSK 2; in ons deck hebben die woorden de tag `HSK2.0-L2`. Ongeveer 60 staan in de nieuwe lijst al in HSK 1, een handvol pas op een hoger niveau.
@@ -28,10 +28,10 @@ Met HSK 1 kun je jezelf voorstellen en iets bestellen. HSK 2 laat je vertellen e
 ## Hoe leer je HSK 2 na HSK 1?
 
 1. **Blijf je HSK 1-kaarten herhalen.** Nieuwe woorden bouwen op oude; de voorbeeldzinnen van HSK 2 gebruiken HSK 1-woorden.
-2. **Twintig nieuwe woorden per dag** in Anki: in ongeveer tien dagen heb je alle 200 woorden een eerste keer gezien, daarna doet de herhaling het werk.
-3. **Zinnen met alleen bekende woorden.** Een voorbeeldzin helpt alleen als je elk ander woord erin al kent. Onze zinnen gebruiken alleen HSK 1- en HSK 2-woorden.
+2. **Twintig nieuwe kaarten per dag** in Anki (de standaard, tien woorden): in ongeveer drie weken heb je alle 398 kaarten een eerste keer gezien, daarna plant Anki de herhalingen.
+3. **Zinnen met alleen bekende woorden.** Een voorbeeldzin helpt het meest als je de andere woorden erin al kent. Onze zinnen gebruiken alleen HSK 1- en HSK 2-woorden.
 4. **Let op woorden die al bestonden.** 点 is in HSK 1 "uur" (三点, drie uur) en in HSK 2 "bestellen" (点菜). In ons HSK 2-deck staat de nieuwe betekenis op een eigen kaart; je HSK 1-kaart blijft zoals hij was.
-5. **Schrijf de nieuwe tekens.** HSK 2 heeft 125 nieuwe karakters. Wie ze met de hand schrijft, in de juiste streepvolgorde, onthoudt ze beter en leest ze sneller.
+5. **Schrijf de nieuwe tekens.** HSK 2 heeft 125 nieuwe tekens. Wie ze met de hand schrijft, in de juiste streepvolgorde, onthoudt ze beter en leest ze sneller.
 
 ## Waarom in het Nederlands?
 
@@ -75,8 +75,8 @@ Dezelfde producten, tegen dezelfde prijs, staan ook in onze Etsy-winkel ByOtterM
 
 **Moet ik eerst HSK 1 kennen?** Ja. HSK 2 bouwt op de 300 woorden van HSK 1, en de voorbeeldzinnen gebruiken ze. Nog niet zover? Begin bij <a href="/nl/hsk-1/">HSK 1 in het Nederlands</a>.
 
-**Hoe lang duurt HSK 2?** Met 20 nieuwe woorden per dag in Anki: een tiental dagen om alle woorden te zien, en een paar weken herhaling tot ze vastzitten.
+**Hoe lang duurt HSK 2?** Met Anki's standaard van 20 nieuwe kaarten per dag (tien woorden): ongeveer drie weken om alle woorden te zien, en een paar weken herhaling tot ze vastzitten.
 
 **Wat komt na HSK 2?** HSK 3 voegt 500 woorden toe (samen 1000). Daarvoor zijn er nu ook een deck en een werkboek: <a href="/nl/hsk-3/">HSK 3 in het Nederlands</a>.
 
-**Is dit officieel materiaal?** Nee. De woordenlijst is de officiële lijst van het Chinese examencentrum; de Nederlandse uitleg is van ons, handmatig gecontroleerd tegen de officiële lijst en het CC-CEDICT-woordenboek. De audio is synthetisch (Microsoft Azure).
+**Is dit officieel materiaal?** Nee. De woordenlijst is de officiële lijst van het Chinese examencentrum; de Nederlandse uitleg is van ons. Elke kaart is automatisch gecontroleerd tegen de officiële lijst en het CC-CEDICT-woordenboek en steekproefsgewijs met de hand nagekeken. De audio is synthetisch (Microsoft Azure).

@@ -20,7 +20,7 @@ De 300 woorden dekken de basis: begroetingen (你好, 谢谢, 再见), getallen 
 
 ## Hoe leer je 300 Chinese woorden zonder ze weer te vergeten?
 
-1. **Spaced repetition.** Herhaal een woord net voordat je het vergeet. Dat is precies wat Anki doet (gratis op computer en Android, betaald op iPhone). Met 20 nieuwe woorden per dag ken je HSK 1 in ongeveer een maand.
+1. **Spaced repetition.** Herhaal een woord net voordat je het vergeet. Dat is precies wat Anki doet (gratis op computer en Android, betaald op iPhone). Met Anki's standaard van 20 nieuwe kaarten per dag (tien woorden) heb je alle HSK 1-woorden in ongeveer een maand een eerste keer gezien.
 2. **Beide richtingen.** Chinees → Nederlands traint lezen, Nederlands → Chinees spreken en schrijven; het deck heeft beide kaartsoorten.
 3. **Zinnen, geen losse woorden.** Een woord in een zin blijft beter hangen, op voorwaarde dat de zin geen onbekende woorden bevat. Daarom gebruiken de voorbeeldzinnen in het deck alleen HSK 1-woorden.
 4. **Luister en zeg na.** Tonen leer je door te luisteren: elk woord en elke voorbeeldzin in het deck heeft audio.
@@ -66,13 +66,13 @@ Dezelfde producten, tegen dezelfde prijs, staan ook in onze Etsy-winkel ByOtterM
 
 ## Veelgestelde vragen
 
-**Hoe lang duurt HSK 1?** Met 20 nieuwe woorden per dag in Anki: ongeveer een maand voor de woordenschat, plus tijd voor luisteren en spreken.
+**Hoe lang duurt HSK 1?** Met Anki's standaard van 20 nieuwe kaarten per dag (tien woorden): ongeveer een maand om alle woorden te zien, plus tijd voor luisteren en spreken.
 
 **Moet ik karakters leren of is pinyin genoeg?** Het examen HSK 1 (3.0) test lezen en schrijven van karakters. Leer ze vanaf dag één, met streepvolgorde.
 
 **Wat komt na HSK 1?** HSK 2 voegt 200 woorden toe (samen 500), HSK 3 nog eens 500. Voor HSK 2 zijn er nu ook een deck en een werkboek: [HSK 2 in het Nederlands](/nl/hsk-2/), en voor HSK 3: [HSK 3 in het Nederlands](/nl/hsk-3/).
 
-**Is dit officieel materiaal?** Nee. De woordenlijst is de officiële lijst van het Chinese examencentrum; de Nederlandse uitleg is van ons, handmatig gecontroleerd tegen de officiële lijst en het CC-CEDICT-woordenboek. De audio is synthetisch (Microsoft Azure).
+**Is dit officieel materiaal?** Nee. De woordenlijst is de officiële lijst van het Chinese examencentrum; de Nederlandse uitleg is van ons. Elke kaart is automatisch gecontroleerd tegen de officiële lijst en het CC-CEDICT-woordenboek en steekproefsgewijs met de hand nagekeken. De audio is synthetisch (Microsoft Azure).
 
 ---
 
