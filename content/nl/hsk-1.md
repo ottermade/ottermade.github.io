@@ -1,6 +1,6 @@
 title: HSK 1 in het Nederlands: de 300 woorden, hoe je ze leert en waar je begint
 description: Wat zit er in HSK 1 (HSK 3.0), hoe leer je de 300 woorden met Anki, en een gratis proefdeck met Nederlandse betekenissen.
-updated: 2026-10-02
+updated: 2026-10-06
 
 # HSK 1 in het Nederlands
 
@@ -10,7 +10,7 @@ updated: 2026-10-02
 
 Of koop via Etsy: <a class="cta etsy" href="https://byottermade.etsy.com/listing/4583060987/hsk-1-anki-deck-chinees-nederlands-300">Deck op Etsy</a> <a class="cta etsy" href="https://byottermade.etsy.com/listing/4583063973/hsk-1-schrijfoefeningen-chinees">Werkboek op Etsy</a> <a class="cta etsy" href="https://byottermade.etsy.com/listing/4583067153/hsk-1-bundel-chinees-nederlands-anki">Deck + werkboek op Etsy</a> <a class="cta etsy" href="https://byottermade.etsy.com/listing/4583077583/hsk-1-2-compleet-chinees-nederlands-2">HSK 1 + 2 compleet op Etsy</a>
 
-HSK 1 is het eerste niveau van het officiële Chinese taalexamen (Hànyǔ Shuǐpíng Kǎoshì). In de nieuwe standaard (HSK 3.0), die wereldwijd in juli 2026 inging en in Nederland vanaf december 2026 op het examen wordt gebruikt, telt niveau 1 **300 woorden**; de officiële tekenlijst van niveau 1 telt 246 karakters. Deze pagina legt uit wat er in HSK 1 zit, hoe je die woorden efficiënt leert, en geeft je een gratis proefdeck om meteen te beginnen.
+HSK 1 is het eerste niveau van het officiële Chinese taalexamen (Hànyǔ Shuǐpíng Kǎoshì). In de nieuwe standaard (HSK 3.0), die wereldwijd in juli 2026 inging en in Nederland vanaf december 2026 op het examen wordt gebruikt, telt niveau 1 **300 woorden**; de officiële tekenlijst van niveau 1 telt 246 karakters.
 
 ## Wat zit er in HSK 1 (3.0)?
 
@@ -21,10 +21,10 @@ De 300 woorden dekken de basis: begroetingen (你好, 谢谢, 再见), getallen 
 ## Hoe leer je 300 Chinese woorden zonder ze weer te vergeten?
 
 1. **Spaced repetition.** Herhaal een woord net voordat je het vergeet. Dat is precies wat Anki doet (gratis op computer en Android, betaald op iPhone). Met 20 nieuwe woorden per dag ken je HSK 1 in ongeveer een maand.
-2. **Beide richtingen.** Chinees → Nederlands traint lezen; Nederlands → Chinees traint spreken en schrijven. Oefen beide.
-3. **Zinnen, geen losse woorden.** Een woord in een zin blijft beter hangen, op voorwaarde dat de zin geen onbekende woorden bevat. Zinnen die alleen HSK 1-woorden gebruiken zijn daarom goud waard.
-4. **Luister en zeg na.** Tonen leer je met je oren. Elk woord met audio, elke zin met audio.
-5. **Schrijf de tekens in de juiste streekvolgorde.** Streekvolgorde maakt tekens onthoudbaar en leesbaar; een animatie per teken is de snelste manier om ze te leren.
+2. **Beide richtingen.** Chinees → Nederlands traint lezen, Nederlands → Chinees spreken en schrijven; het deck heeft beide kaartsoorten.
+3. **Zinnen, geen losse woorden.** Een woord in een zin blijft beter hangen, op voorwaarde dat de zin geen onbekende woorden bevat. Daarom gebruiken de voorbeeldzinnen in het deck alleen HSK 1-woorden.
+4. **Luister en zeg na.** Tonen leer je door te luisteren: elk woord en elke voorbeeldzin in het deck heeft audio.
+5. **Schrijf de tekens in de juiste streepvolgorde.** Wie de volgorde kent, onthoudt een teken makkelijker en herkent het sneller. In het deck laat een animatie de volgorde van elk teken zien.
 
 ## Waarom in het Nederlands?
 
@@ -68,7 +68,7 @@ Dezelfde producten, tegen dezelfde prijs, staan ook in onze Etsy-winkel ByOtterM
 
 **Hoe lang duurt HSK 1?** Met 20 nieuwe woorden per dag in Anki: ongeveer een maand voor de woordenschat, plus tijd voor luisteren en spreken.
 
-**Moet ik karakters leren of is pinyin genoeg?** Het examen HSK 1 (3.0) test lezen en schrijven van karakters. Leer ze vanaf dag één, met streekvolgorde.
+**Moet ik karakters leren of is pinyin genoeg?** Het examen HSK 1 (3.0) test lezen en schrijven van karakters. Leer ze vanaf dag één, met streepvolgorde.
 
 **Wat komt na HSK 1?** HSK 2 voegt 200 woorden toe (samen 500), HSK 3 nog eens 500. Voor HSK 2 zijn er nu ook een deck en een werkboek: [HSK 2 in het Nederlands](/nl/hsk-2/), en voor HSK 3: [HSK 3 in het Nederlands](/nl/hsk-3/).
 

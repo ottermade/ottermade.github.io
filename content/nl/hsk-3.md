@@ -1,6 +1,6 @@
 title: HSK 3 in het Nederlands: de 500 woorden, wat er nieuw is en hoe je ze leert
 description: Wat zit er in HSK 3 (HSK 3.0), wat verandert er na HSK 2, en een gratis proefdeck met Nederlandse betekenissen.
-updated: 2026-10-04
+updated: 2026-10-06
 
 # HSK 3 in het Nederlands
 
@@ -10,7 +10,7 @@ updated: 2026-10-04
 
 Of koop via Etsy: <a class="cta etsy" href="https://byottermade.etsy.com/listing/4587075442/hsk-3-anki-deck-chinees-nederlands-500">Deck op Etsy</a> <a class="cta etsy" href="https://byottermade.etsy.com/listing/4587071977/hsk-3-30-schrijfoefeningen-chinees">Werkboek op Etsy</a> <a class="cta etsy" href="https://byottermade.etsy.com/listing/4587079136/hsk-3-30-bundel-chinees-nederlands-anki">Deck + werkboek op Etsy</a> <a class="cta etsy" href="https://byottermade.etsy.com/listing/4587075753/hsk-1-2-en-3-30-compleet-chinees">HSK 1, 2 en 3 compleet op Etsy</a>
 
-HSK 3 is het derde niveau van het officiële Chinese taalexamen (Hànyǔ Shuǐpíng Kǎoshì). In de nieuwe standaard (HSK 3.0), die wereldwijd in juli 2026 inging en in Nederland vanaf december 2026 op het examen wordt gebruikt, voegt niveau 3 **500 woorden** toe aan de 500 van HSK 1 en 2: samen 1000. Het is de grootste stap tot nu toe. Vanaf HSK 3 maakt de standaard ook een onderscheid tussen lezen en schrijven: de officiële schrijflijst van niveau 3 telt 150 tekens die je met de hand moet kunnen schrijven. Deze pagina legt uit wat er in HSK 3 zit, hoe je het aanpakt na HSK 2, en geeft je een gratis proefdeck om meteen te beginnen.
+HSK 3 is het derde niveau van het officiële Chinese taalexamen (Hànyǔ Shuǐpíng Kǎoshì). In de nieuwe standaard (HSK 3.0), die wereldwijd in juli 2026 inging en in Nederland vanaf december 2026 op het examen wordt gebruikt, voegt niveau 3 **500 woorden** toe aan de 500 van HSK 1 en 2: samen 1000. Vanaf HSK 3 maakt de standaard ook een onderscheid tussen lezen en schrijven: de officiële schrijflijst van niveau 3 telt 150 tekens die je met de hand moet kunnen schrijven.
 
 ## Wat zit er in HSK 3 (3.0)?
 
