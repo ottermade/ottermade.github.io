@@ -1,6 +1,6 @@
 title: HSK 4 in het Nederlands: de 1000 woorden, wat er nieuw is en hoe je ze leert
 description: Wat zit er in HSK 4 (HSK 3.0), wat verandert er na HSK 3, en een gratis proefdeck met Nederlandse betekenissen.
-updated: 2026-10-04
+updated: 2026-10-06
 
 # HSK 4 in het Nederlands
 
@@ -10,7 +10,7 @@ updated: 2026-10-04
 
 Of koop via Etsy: <a class="cta etsy" href="https://byottermade.etsy.com/listing/4587248883/hsk-4-30-anki-deck-chinees-nederlands">Deck op Etsy</a> <a class="cta etsy" href="https://byottermade.etsy.com/listing/4587252453/hsk-4-30-schrijfoefeningen-chinees">Werkboek op Etsy</a> <a class="cta etsy" href="https://byottermade.etsy.com/listing/4587254703/hsk-4-30-bundel-chinees-nederlands-anki">Deck + werkboek op Etsy</a>
 
-HSK 4 is het vierde niveau van het officiële Chinese taalexamen (Hànyǔ Shuǐpíng Kǎoshì). In de nieuwe standaard (HSK 3.0), die wereldwijd in juli 2026 inging en in Nederland vanaf december 2026 op het examen wordt gebruikt, voegt niveau 4 **1000 woorden** toe aan de 1000 van HSK 1 tot 3: samen 2000. Daarmee is HSK 4 even groot als de eerste drie niveaus samen. Zoals bij HSK 3 maakt de standaard een onderscheid tussen lezen en schrijven: de officiële schrijflijst van niveau 4 telt 150 tekens die je met de hand moet kunnen schrijven. Deze pagina legt uit wat er in HSK 4 zit, hoe je het aanpakt na HSK 3, en geeft je een gratis proefdeck om meteen te beginnen.
+HSK 4 is het vierde niveau van het officiële Chinese taalexamen (Hànyǔ Shuǐpíng Kǎoshì). In de nieuwe standaard (HSK 3.0), die wereldwijd in juli 2026 inging en in Nederland vanaf december 2026 op het examen wordt gebruikt, voegt niveau 4 **1000 woorden** toe aan de 1000 van HSK 1 tot 3: samen 2000. Daarmee is HSK 4 even groot als de eerste drie niveaus samen. Zoals bij HSK 3 maakt de standaard een onderscheid tussen lezen en schrijven: de officiële schrijflijst van niveau 4 telt 150 tekens die je met de hand moet kunnen schrijven.
 
 ## Wat zit er in HSK 4 (3.0)?
 
